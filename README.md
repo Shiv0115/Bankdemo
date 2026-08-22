@@ -1,4 +1,4 @@
 # Bankdemo
-It tells how transaction system works.
+It tells how transaction system works..
 <br>
-Author - Shivanshu Gupta
+Author - Shivanshu Gupta 
